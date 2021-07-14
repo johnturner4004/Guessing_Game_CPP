@@ -23,7 +23,7 @@ After installing the extension while in VS Code, open the .cpp file and press <k
 
 ## Built With
 
-[ ![cplusplus](<https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg> =40x40)](<https://www.w3schools.com/cpp/>)
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 ## License
 
