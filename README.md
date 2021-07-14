@@ -4,7 +4,7 @@
 
 ## Description
 
-This is just a simple guessing game written in C++.
+This is just a simple guessing game written in C++. This program applys what I have learned about while loops and if statements.
 
 ### Prerequisites
 
